@@ -2,7 +2,7 @@
 
 ## Overview
 
-This notebook analyzes AI adoption survey data to identify distinct behavioral profiles and provide actionable recommendations. You don't need to be a programmer to run this analysis - just follow the steps below!
+This notebook analyzes AI adoption survey data to identify distinct behavioral profiles and provide actionable recommendations. You don't need to be a programmer to run this analysis - just follow the steps below! The data used during the presentation is a fictitious data set to demonstrate the value of the process. Simply replacing it with your data may not result in meaningful insights without proper data preparation and validation.
 
 **What you'll get:**
 - Visual charts showing different employee groups and their AI adoption barriers
